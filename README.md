@@ -1,3 +1,3 @@
-- 👋 Hi, I’m <a href="https://brunosouza.dev/en/about/">@brunomvsouza</a>.
-- 👨🏽‍💻 I'm drawn to the challenges and learnings that come with solving interesting problems at scale.
-- 📫 You can reach me on <a rel="me" href="https://linkedin.com/in/brunomvsouza">LinkedIn</a> and <a rel="me" href="https://twitter.com/brunomvsouza">Twitter</a>.
+- 👋 Hi there, I’m Bruno!
+- 👨🏽‍💻 I'm a distributed systems enthusiast. I love the challenges and learnings that come with solving interesting problems at scale.
+- 📫 You can see more places to reach me at <a rel="me" href="https://brunosouza.dev">brunosouza.dev</a>.
