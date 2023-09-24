@@ -1,3 +1,2 @@
 - 👋 Hi there, I’m Bruno!
-- 👨🏽‍💻 I'm a distributed systems enthusiast. I love the challenges and learnings that come with solving interesting problems at scale.
-- 📫 You can see more places to reach me at <a rel="me" href="https://bmvs.dev">bmvs.dev</a>.
+- 📫 You can check ahere to reach me at <a rel="me" href="https://bmvs.dev?utm_source=github&utm_campaign=social">bmvs.dev</a>.
