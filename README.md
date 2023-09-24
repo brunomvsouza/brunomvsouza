@@ -1,2 +1,2 @@
 - 👋 Hi there, I’m Bruno!
-- 📫 You can check ahere to reach me at <a rel="me" href="https://bmvs.dev?utm_source=github&utm_campaign=social">bmvs.dev</a>.
+- 📫 You can check where to reach me at <a rel="me" href="https://bmvs.dev?utm_source=github&utm_campaign=social">bmvs.dev</a>.
